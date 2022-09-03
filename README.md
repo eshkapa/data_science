@@ -8,4 +8,4 @@ Advertising platforms, Internet services, Internet shops, Digital-agencies / Mar
 ## Used Libraries:
 Pandas
 ## tags:
-data science, Python, SQL,  Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, xgboost, Support vector machines, Gradient Boosting, nonlinear optimization, clustering, random forest, descision trees, regression, Reinforcement Learning, OpenCV, PIL
+data science, Python, SQL,  Pandas, Numpy, Matplotlib, seaborn, Tableau
