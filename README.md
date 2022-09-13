@@ -1,4 +1,4 @@
-# Dara Science
+# Data Science
 Repository containing portfolio of data science projects completed by Elena Shkapa during the master course at Yandex.Praktikum:
 
 ## 01_Project_Yandex Music:
